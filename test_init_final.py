@@ -3397,3 +3397,4 @@ ilsang_distribution_bot : IlsangDistributionBot = IlsangDistributionBot()
 ilsang_distribution_bot.add_cog(mainCog(ilsang_distribution_bot))
 ilsang_distribution_bot.add_cog(taskCog(ilsang_distribution_bot))
 ilsang_distribution_bot.run()
+				
